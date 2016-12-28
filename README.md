@@ -1,6 +1,9 @@
 # ios-inshorts-view
 This is a UI component, written in Objective-C, that can be used for implementing a vertical swipe up-down view for next/previous cards, just like the News Inshorts App, in a iOS application.
 
+## Demo Screen Video (Animated Gif)
+![demo video gif](/demo_videos/vik_inshorts_demo.gif "demo_video_gif")
+
 ## Demo Screenshots
 ![initial](/demo_images/initial.png "initial")
 ![swipe_up_1](/demo_images/swipe_up_1.png "swipe_up_1")
@@ -14,4 +17,4 @@ This is a UI component, written in Objective-C, that can be used for implementin
 3. Check the **InshortsTest** demo application for more details on the usage.
 
 ## Developer Contact
-vikrant.sharma@gmail.com
+Vikrant Sharma (vikrant.sharma@gmail.com)
